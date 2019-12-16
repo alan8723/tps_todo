@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1576106162 source:c:\users\franc\desktop\tp1\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp_1.h"
+
+1576106189 c:\users\franc\desktop\tp1\tp_1\tp_1.h
+
+1576106204 source:c:\users\franc\desktop\tp1\tp_1\tp_1.c
+	"tp_1.h"
+	<stdio.h>
+
